@@ -50,3 +50,8 @@ $skills = [
     ]
 ];
 ```
+
+### 📫 Connect with Me
+- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/imadeddinebetar)
+- Portfolio: [imadeddinebetar.com](https://www.imadeddinebetar.com)
+- Email: contact@imadeddinebetar.com
