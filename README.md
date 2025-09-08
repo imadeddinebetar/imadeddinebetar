@@ -12,41 +12,52 @@ I’m passionate about bridging the gap between technology and business needs by
 
 🚀 My mission is to transform complex challenges into straightforward, impactful solutions that deliver tangible value for businesses.
 
+#
 
+### 🛠️ Skills & Expertise
 
+#### Programming Languages
+- PHP
+- JavaScript / TypeScript
+- C#
+- Java
+- Python
 
-### 🔥 Technical Skills:
+#### Frontend Development
+- React.js
+- React Native
+- Vue.js
 
-```php
-$skills = [
-    "Programming Languages" => ["PHP", "JavaScript", "TypeScript", "C#", "Java", "Python"],
-    "Frontend" => ["React.js", "React Native", "Vue.js"],
-    "Backend" => ["Laravel", "FastAPI"],
-    "Architecture & Design" => [
-        "Microservices",
-        "Web Services",
-        "Event-Driven Architecture",
-        "Clean Architecture",
-        "Domain-Driven Design"
-    ],
-    "Databases" => ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-    "Deployment & DevOps" => [
-        "CI/CD (Git, GitHub, GitHub Actions, Jenkins)",
-        "Docker",
-        "Docker Compose",
-        "VPS"
-    ],
-    "Agile Methodologies" => ["Scrum", "Kanban"],
-    "Quality & Best Practices" => [
-        "Clean Code",
-        "SOLID",
-        "KISS",
-        "DRY",
-        "YAGNI",
-        "Design Patterns",
-        "Unit Tests",
-        "Integration Tests",
-        "TDD"
-    ]
-];
-```
+#### Backend Development
+- Laravel
+- FastAPI
+
+#### Architecture & Design
+- Microservices
+- Web Services
+- Event-Driven Architecture
+- Clean Architecture
+- Domain-Driven Design
+
+#### Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+- Redis
+
+#### Deployment & DevOps
+- CI/CD (Git, GitHub, GitHub Actions, Jenkins)
+- Docker & Docker Compose
+- VPS Hosting
+
+#### Agile Methodologies
+- Scrum
+- Kanban
+
+#### Quality & Best Practices
+- Clean Code
+- SOLID Principles
+- KISS, DRY, YAGNI
+- Design Patterns
+- Unit & Integration Testing
+- Test-Driven Development (TDD)
