@@ -1,16 +1,50 @@
-## Hi, I'm a software engineer
+# Welcome to my GitHub!
 
-<!--
-**imadeddinebetar/imadeddinebetar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about bridging the gap between technology and business needs by creating innovative solutions that help organizations work smarter.
 
-Here are some ideas to get you started:
+💻 I’m a **Software Engineer** with **7+ years of experience**, specializing in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building high-performance applications
+
+- Digitizing and optimizing business processes
+
+- Designing solutions that are scalable, secure, and user-oriented
+
+🚀 My mission is to transform complex challenges into straightforward, impactful solutions that deliver tangible value for businesses.
+
+---
+
+### 🔥 Hard Skills:
+
+```php
+$hardSkills = [
+    "Programming Languages" => ["PHP", "JavaScript", "TypeScript", "C#", "Java", "Python"],
+    "Frontend" => ["React.js", "React Native", "Vue.js"],
+    "Backend" => ["Laravel", "FastAPI"],
+    "Architecture & Design" => [
+        "Microservices",
+        "Web Services",
+        "Event-Driven Architecture",
+        "Clean Architecture",
+        "Domain-Driven Design"
+    ],
+    "Databases" => ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
+    "Deployment & DevOps" => [
+        "CI/CD (Git, GitHub, GitHub Actions, Jenkins)",
+        "Docker",
+        "Docker Compose",
+        "VPS"
+    ],
+    "Agile Methodologies" => ["Scrum", "Kanban"],
+    "Quality & Best Practices" => [
+        "Clean Code",
+        "SOLID",
+        "KISS",
+        "DRY",
+        "YAGNI",
+        "Unit Tests",
+        "Integration Tests",
+        "Design Patterns"
+    ]
+];
+```
