@@ -15,10 +15,10 @@ I’m passionate about bridging the gap between technology and business needs by
 
 
 
-### 🔥 Hard Skills:
+### 🔥 Technical Skills:
 
 ```php
-$hardSkills = [
+$skills = [
     "Programming Languages" => ["PHP", "JavaScript", "TypeScript", "C#", "Java", "Python"],
     "Frontend" => ["React.js", "React Native", "Vue.js"],
     "Backend" => ["Laravel", "FastAPI"],
