@@ -43,9 +43,10 @@ $skills = [
         "KISS",
         "DRY",
         "YAGNI",
+        "Design Patterns",
         "Unit Tests",
         "Integration Tests",
-        "Design Patterns"
+        "TDD"
     ]
 ];
 ```
