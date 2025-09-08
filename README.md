@@ -50,7 +50,3 @@ $skills = [
     ]
 ];
 ```
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=novatorem&theme=darkhub&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-
