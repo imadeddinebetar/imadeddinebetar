@@ -1,4 +1,4 @@
-# Welcome to my GitHub!
+# 👋 Welcome to my GitHub!
 
 I’m passionate about bridging the gap between technology and business needs by creating innovative solutions that help organizations work smarter.
 
@@ -12,7 +12,8 @@ I’m passionate about bridging the gap between technology and business needs by
 
 🚀 My mission is to transform complex challenges into straightforward, impactful solutions that deliver tangible value for businesses.
 
----
+
+
 
 ### 🔥 Hard Skills:
 
@@ -48,3 +49,12 @@ $hardSkills = [
     ]
 ];
 ```
+
+
+### 🤝 Let’s Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/imadeddinebetar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:contact@imadeddinebetar.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://imadeddinebetar.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>  
